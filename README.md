@@ -1,3 +1,3 @@
-# Javascript-Saat-ve-Kar-lama
+# Javascript-Saat-ve-Karsilama
 Kodluyoruz Front-End Eğitimi kapsamında yaptığım ilk Javascript ödevi
 ![screenshot](ss.png)
